@@ -14,7 +14,7 @@
 1. Copie o arquivo de exemplo:
    ```bash
    copy env.example.bat env.bat
-```
+
 2. Edite o `env.bat` com suas credenciais do PostgreSQL
 
 ## 🚀 Como rodar o projeto
